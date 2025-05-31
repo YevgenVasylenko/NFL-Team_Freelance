@@ -1,5 +1,5 @@
 
-# SportsNews Freelance
+# NFL Teams Freelance
 
 ## Table of Contents
 
